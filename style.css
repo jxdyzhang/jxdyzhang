@@ -25,9 +25,9 @@ main {
 figure {
   max-width: 50vw;
   margin: 0 auto;
-  
+
   padding: 1em;
-  
+
   box-shadow: 0 0 2em -0.5em #E0CDFF;
   position: relative;
 }
@@ -65,4 +65,3 @@ figure figcaption {
 .helper:hover {
   opacity: 1;
 }
-
