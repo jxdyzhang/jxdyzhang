@@ -1,6 +1,5 @@
 
 
-
 *{
   box-sizing:border-box;
   margin:0;
@@ -10,7 +9,7 @@
 
 body{
   min-height:100vh;
-
+  background-color: #732cab;
   display:flex;
   justify-content:space-around;
   align-items:center;
