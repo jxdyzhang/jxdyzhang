@@ -10,14 +10,14 @@
 body{
   min-height:100vh;
   /* background-color: #732cab; */
-  background-image: url("https://64.media.tumblr.com/2cf7cdbe6a7995dd062eca5e18c82bab/tumblr_inline_n0oj03G60z1s829k0.jpg");
+  background-image: url(https://images.unsplash.com/photo-1517092756309-24071485f6db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=680&q=80);
   display:flex;
   justify-content:space-around;
   align-items:center;
 }
 
 #card-wrapper{
-background-image:url(https://images.unsplash.com/photo-1504472893907-7f577b7c9beb?ixlib=rb-0.3.5&s=3e5168084ad03cb653101983430f6686&auto=format&fit=crop&w=634&q=80);
+background-image:url(https://images.unsplash.com/photo-1517092756309-24071485f6db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=680&q=80);
   background-size:cover;
   background-repeat:no-repeat;
 
@@ -80,7 +80,7 @@ background-image:url(https://images.unsplash.com/photo-1504472893907-7f577b7c9be
 
 /*Second Card*/
 #card-wrapper1{
-background-image:url(https://images.unsplash.com/photo-1517400549041-c6b0723842f4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=38aec809de8b2010f0e8e36076444b70&auto=format&fit=crop&w=2134&q=80);
+background-image:url(https://images.unsplash.com/photo-1517092756309-24071485f6db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=680&q=80);
   background-size:cover;
   background-repeat:no-repeat;
 
