@@ -10,7 +10,7 @@
 body{
   min-height:100vh;
   /* background-color: #732cab; */
-  background-image: url(https://unsplash.com/photos/VdFkSO3uePI);
+  background-image: url(https://images.unsplash.com/photo-1502679726485-931beda67f88?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1655&q=80);
   display:flex;
   justify-content:space-around;
   align-items:center;
